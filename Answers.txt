@@ -1,0 +1,4 @@
+Project Euler Answers by Anish Sarkar
+
+
+Problem 1: 233168
